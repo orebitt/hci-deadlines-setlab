@@ -374,3 +374,15 @@
   hindex: 113
   sub: HCI
   note: Mandatory abstract deadline on September 7, 2023.
+
+- title: INDIECADE
+  year: 2023
+  id: indiecade2023
+  link: https://www.indiecade.com/submissions/
+  deadline: '2023-05-31 23:59:59'
+  timezone: UTC-12
+  place: Multiple
+  date: Multiple
+  start: Multiple
+  end: Multiple
+  sub: HCI
