@@ -377,12 +377,10 @@
 
 - title: INDIECADE
   year: 2023
-  id: indiecade2023
+  id: indiecade23
   link: https://www.indiecade.com/submissions/
   deadline: '2023-05-31 23:59:59'
   timezone: UTC-12
-  place: Multiple
-  date: Multiple
-  start: Multiple
-  end: Multiple
+  place: Multiple, Multiple
+  date: May, 31, 2023
   sub: HCI
